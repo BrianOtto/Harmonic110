@@ -69,10 +69,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "GitSourceControl",
-			"Enabled": false
-		},
-		{
 			"Name": "GooglePAD",
 			"Enabled": false
 		},
